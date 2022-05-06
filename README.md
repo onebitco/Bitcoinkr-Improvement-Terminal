@@ -8,11 +8,14 @@ BIT는 비트코인 코리아에 추가될 컨텐츠들이 모이는 곳 입니�
 칼럼, 번역글, 자기소개 피플, 유용한 링크 업데이트등을 직접 요청 가능합니다.
 
 ## 테스트 해보기
-깃허브 사용이 처음 이신 분께선 [bitcoinkrtest](https://github.com/bitcoinkrorg/bitcoinkrtest) 로 이동하셔서 그곳에서 수정이나 제안을 테스트 해보실 수 있습니다.
+깃허브 사용이 처음 이신 분께선 [bitcoinkrtest](https://github.com/bitcoinkrorg/bitcoinkrtest) 로 이동하셔서 그곳에서 수정이나 제안을 테스트 해보실 수 있습니다.  특히 그곳의 [Wiki](https://github.com/bitcoinkrorg/bitcoinkrtest/wiki) 페이지에 기초적인 사용법이 첨부되어 있습니다.
 
 ## 토론 및 질문
 
 [Discussion/게시판](https://github.com/bitcoinkrorg/Bitcoinkr-Improvement-Terminal/discussions) 에서 여러 토론들을 나누 실 수 있습니다.
+
+## 번역 리스트 및 현왕
+
 
 
 ## 정기 모임
